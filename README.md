@@ -12,7 +12,7 @@ Before starting with the analysis, we removed the most problematic cells by plot
 We performed a PCA with 10 principal components, obtaining 9 clusters from which we were able to identify and interpret the most significant differentially expressed genes, thanks to whom we were able to detect the cell type related to each cluster.  
 
 ## RESULTS
-Compared to literature, we found in accordance the following cells:
+Compared to literature, we found the following cells in accordance:
 - Astrocytes
 - Oligodendrocytes
 - Neurons
