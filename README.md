@@ -19,6 +19,7 @@ Compared to literature, we found the following cells in accordance:
 - Oligodendrocytes progenitors
 - Microglia
 - Pancreatic stellate cells
+
 However, Endothelial cells were not identified according to our analysis. 
 As newly found cells, we were able to capture:
 - Interfascicular, satellite and pre-myelinating oligodendrocytes (three different subtypes of oligodendrocytes)
